@@ -1,4 +1,5 @@
 # IIT Patna Hangman Game
+https://nsoc-game.vercel.app
 
 ## Description
 
